@@ -1,0 +1,224 @@
+@charset "UTF-8";
+*{
+    box-sizing: border-box;
+    color: #FAFAFA;
+	}
+
+#article	{		
+			width: 1200px;
+			height: 575px;
+			padding:10px;
+			margin-right:290px;
+			margin-left:290px;
+			margin-bottom:15px;
+			}
+
+#container	{
+			width:1280px;
+			height:800px;
+			margin:0 auto;	
+			}
+
+#topbox1    {
+			font-family: "serif";
+			width:100%;
+			background-image: url("assets/top_banner_index.png");
+			background-repeat: no-repeat;
+			height:100
+				px;
+			margin-bottom: 20px;
+			}
+
+#topbox2    {
+			font-family: "serif";
+			width:100%;
+			background-image: url(assets/top_banner100.png);
+			background-repeat: no-repeat;
+			height:100
+				px;
+			margin-bottom: 20px;
+			background-color:#000066;
+			}
+
+#navbutton	{
+			font-family: Arial, "sans-serif";
+			font-size:1.1em;
+			padding-top:40px;
+			text-align:right;
+			color: #FAFAFA;
+			margin-right: 30px;
+			}
+
+#navbutton2	{
+			font-family: Times, Arial, "sans-serif";
+			font-size:1.1em;
+			padding-top:40px;
+			text-align:right;
+			color: #006;
+			margin-right: 30px;
+			}
+section		{
+			width: 600px;
+			height: 575px;
+			padding:10px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}
+
+#left_res	{
+			font-family: 'Sanchez', serif;
+			text-align: center;
+			color:#006;
+			font-size: 1.4em;
+			width: 380px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			padding-top: 150px;
+			}	
+
+#right_res	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 800px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+
+
+#left_faq	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 380px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+#center_faq	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 400px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+
+#right_faq	{
+			background-color:;
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 380px;
+			height: 575px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+#portfolio	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			background-image: url("assets/portfolio.png");
+			background-repeat: no-repeat;
+			font-size: 1.4em;
+			width: 835px;
+			height: 575px;
+			padding-top:50px;
+			padding-left:275px;
+			padding-right:200px;
+			float:left;
+			margin-right:222px;
+			margin-left:222px;
+			margin-bottom:15px;
+			}
+
+#left_about	{
+			font-family: 'Sanchez', serif;
+			color:#006;
+			font-size: 1.4em;
+			width: 600px;
+			height: 575px;
+			padding:10px;
+			float:left;
+			margin-right:20px;
+			margin-left:20px;
+			margin-bottom:15px;
+			}	
+
+#sig		{
+			width:1280px;
+			height: 575px;
+			}
+
+#rightside		{
+			width:600px;
+			height:575px;
+			background-color:red;
+			margin-right:20px;
+			margin-left:20px;
+			float: left;
+			}
+
+#rightside_about		{
+			width:600px;
+			height:575px;
+			margin-right:20px;
+			margin-left:20px;
+			float: left;
+			}
+#smallbox	{
+			background-color:khaki;
+			margin: 10px;
+			width:510px;
+			height:225px;
+			}
+			
+h1			{
+			font-family:"serif";
+			
+			}
+			
+			
+header		{
+			width:100%;
+			height:100px;
+			margin-bottom: 0px; 
+			}
+				
+
+			
+body        {
+			background-image:url("assets/pattern_05.gif");
+			image-repeat:repeat;
+			width: 100%;
+			height:100%;
+			}
+			
+footer		{
+			width:100%;
+			font-size: 15px;
+			background-color:#000066;
+			text-align: center;
+			padding-top: 15px;
+			margin-top:20px;
+			height:125px;
+			clear:both;
+			}
