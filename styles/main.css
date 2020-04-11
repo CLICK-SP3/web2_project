@@ -3,6 +3,9 @@
 body{
 	background-color: gold;
 	}
+h1 {
+	color: red;
+	}
 .container	{
 	border: 3px;
 	width:1280px;
@@ -11,13 +14,18 @@ body{
 	}
 
 .list {
+	display: flex;
+	justify-content: space-evenly;
 	list-style-type: none;
 	padding: 0;
-	display: flex;
-    justify-content: space-evenly;
+    
 	}
 .sig	{
 	width:1280px;
 	height: 575px;
+	margin:0 auto;
 	}
+p{
+	color: blue;
+}
 
